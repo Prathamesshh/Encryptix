@@ -1,1 +1,1 @@
-This Repo consists of projects that were assigned for the internship in AI and ML domain.
+This Repo consists of projects that were assigned for the internship in AI domain.
